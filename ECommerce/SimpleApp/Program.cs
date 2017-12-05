@@ -21,6 +21,7 @@ namespace SimpleApp
                 var quotients = new List<int>();
 
                 Console.WriteLine("Enter a number");
+
                 var input = Console.ReadLine();
                 
                 int number;
