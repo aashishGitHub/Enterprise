@@ -1,0 +1,6 @@
+C:\Study\Enterprise\ECommerce\SimpleApp\bin\Debug\SimpleApp.exe.config
+C:\Study\Enterprise\ECommerce\SimpleApp\bin\Debug\SimpleApp.exe
+C:\Study\Enterprise\ECommerce\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\Study\Enterprise\ECommerce\SimpleApp\obj\Debug\SimpleApp.csprojResolveAssemblyReference.cache
+C:\Study\Enterprise\ECommerce\SimpleApp\obj\Debug\SimpleApp.exe
+C:\Study\Enterprise\ECommerce\SimpleApp\obj\Debug\SimpleApp.pdb

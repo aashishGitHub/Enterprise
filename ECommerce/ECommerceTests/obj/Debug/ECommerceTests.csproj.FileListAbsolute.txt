@@ -1,0 +1,6 @@
+C:\Study\Enterprise\ECommerce\ECommerceTests\bin\Debug\ECommerceTests.dll
+C:\Study\Enterprise\ECommerce\ECommerceTests\bin\Debug\ECommerceTests.pdb
+C:\Study\Enterprise\ECommerce\ECommerceTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Study\Enterprise\ECommerce\ECommerceTests\obj\Debug\ECommerceTests.dll
+C:\Study\Enterprise\ECommerce\ECommerceTests\obj\Debug\ECommerceTests.pdb
+C:\Study\Enterprise\ECommerce\ECommerceTests\obj\Debug\ECommerceTests.csprojResolveAssemblyReference.cache
